@@ -11,11 +11,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        
+      - name: List build directory
+        run: ls -la ./public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3 # Updated to v2
         with:
-          path: public
+          path: ./public
 
   deploy:
     needs: build
