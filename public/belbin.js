@@ -4,7 +4,7 @@
         {desc: "Welchen Beitrag glaube ich in einem Team leisten zu können?", statements: [
             "Ich glaube, ich kann schnell neue Möglichkeiten erkennen und nutzen. ",
             "Ich kann gut mit ganz unterschiedlichen Leuten zusammenarbeiten. ",
-            "Es liegt in meiner Natur, Ideen hervorzubringen. ",
+            "Es liegt in meiner Natur, Ideen hervorzubringen.",
             "Es ist meine Stärke, jemanden aus der Reserve zu locken, wenn ich merke, dass er etwas Wertvolles für die Ziele der Gruppe beisteuern kann.",
             "Man kann sich darauf verlassen das ich Dinge zuende bringe.",
             "Meine technische Expertise ist meine große Stärke. ",
